@@ -1,0 +1,32 @@
+{
+    "name": "Midguard/AppServerBundle",
+    "type": "library",
+    "description": "Application server in PHP for Symfony",
+    "keywords": ["aip", "appserver", "Symfony],
+    "homepage": "https://github.com/bergie/MidgardAppServerBundle",
+    "authors": [
+        {
+            "name": "Henri Bergiu",
+            "homepage": "http://bergie.iki.fi/",
+            "role": "Developer"
+        },
+        {
+            "name": "David Stone",
+            "homepage": "http://nnucomputerwhiz.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bergie/MidgardAppServerBundle/issues",
+        "wiki": "https://github.com/bergie/MidgardAppServerBundle/wiki",
+        "source": "https://github.com/bergie/MidgardAppServerBundle"
+    },
+    "require": {
+        "aip/aip": "0.9.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "AiP": ""
+        }
+    }
+  }
