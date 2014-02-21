@@ -28,6 +28,6 @@
         "psr-0": {
             "Midguard\\AppServerBundle": ""
         }
-    }
+    },
     "target-dir": "Midguard/AppServerBundle"
   }
