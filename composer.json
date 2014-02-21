@@ -2,7 +2,7 @@
     "name": "Midguard/AppServerBundle",
     "type": "library",
     "description": "Application server in PHP for Symfony",
-    "keywords": ["aip", "appserver", "Symfony],
+    "keywords": ["aip", "appserver", "Symfony"],
     "homepage": "https://github.com/bergie/MidgardAppServerBundle",
     "authors": [
         {
