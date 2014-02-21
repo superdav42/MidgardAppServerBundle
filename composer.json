@@ -1,5 +1,5 @@
 {
-    "name": "midguard/app-server-bundle",
+    "name": "midgard/app-server-bundle",
     "type": "library",
     "description": "Application server in PHP for Symfony",
     "keywords": ["aip", "appserver", "Symfony"],
@@ -26,8 +26,8 @@
     },
     "autoload": {
         "psr-0": {
-            "Midguard\\AppServerBundle": ""
+            "Midgard\\AppServerBundle": ""
         }
     },
-    "target-dir": "Midguard/AppServerBundle"
+    "target-dir": "Midgard/AppServerBundle"
   }
