@@ -20,22 +20,11 @@ The AppServerBundle integrates AiP with the Symfony2 framework. The points of in
 
 ## Installation
 
-### Dependencies
-
-Install AppServer-in-PHP either via PEAR:
-
-    $ pear channel-discover pear.indeyets.pp.ru
-    $ pear install indeyets/aip
-
-...or by installing the AiP repository under your `vendors` directory. AiP requires the `php-cli` package to run, as it is basically a command-line PHP script.
-
 ### AppServerBundle
 
-Install this bundle under your `vendors` directory and add the `Midgard` namespace to your `autoload.php`. You can automate the install by adding the following to your `deps` file:
-
-    [AppServerBundle]
-        git=http://github.com/bergie/MidgardAppServerBundle.git
-        target=Midgard/AppServerBundle
+Now we can install via composer.
+Just add 
+`"midguard/app-server-bundle": "dev-master"` to the require section of your composor.json file.
 
 ### Application server configuration
 
